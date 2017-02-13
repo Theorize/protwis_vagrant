@@ -9,3 +9,4 @@ include adminer
 include postgresql
 include python
 include import_db
+include zsh
